@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Enrico Turletti"
+  favicon: et_favicon.png
+  sidebar: 
+    style: "floating"
+    alignment: center
+    search: false
+    contents: auto
+    tools:
+      - icon: instagram
+        href: https://instagram.com/enrico_turletti/
+format:
+  html:
+    theme: 
+      - solar
+      - custom.scss
+    mainfont: Tahoma
+    toc: false
+filters: 
+  - externalink.lua
+
+
+
