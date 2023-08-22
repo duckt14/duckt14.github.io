@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "progetti/ecophylla.html#descrizione",
+    "href": "progetti/ecophylla.html#descrizione",
+    "title": "ECOPHYLLa",
+    "section": "Descrizione",
+    "text": "Descrizione\nCon il progetto intitolato ECOPHYLLa propongo l’adozione di una economia fondata sulla cooperazione tra umano e pianta, in cui il valore della moneta rappresenta il benessere delle piante. Ogni partecipante dovrà scegliere una pianta di cui prendersi cura. Attraverso il costante monitoraggio della sua salute, avrà la possibilità di ottenere e accumulare delle ricompense. Il monitoraggio avviene con l’utilizzo di un fluorimetro, uno strumento che consente di conoscere la salute della pianta osservando l’emissione della fluorescenza da parte della clorofilla a durante il processo di fotosintesi. A seconda dei risultati ottenuti, verrà stabilito il valore della ricompensa o della sanzione da attribuire al partecipante. Il valore della ricompensa sarà inoltre influenzato dai risultati ottenuti dai partecipanti vicini."
+  },
+  {
+    "objectID": "progetti/ecophylla.html#fluorimetro",
+    "href": "progetti/ecophylla.html#fluorimetro",
+    "title": "ECOPHYLLa",
+    "section": "Fluorimetro",
+    "text": "Fluorimetro\nQualche foto del prototipo a cui sono giunto per la costruzione del fluorimetro di ECOPHYLLa. Il fluorimetro è composto di due parti: la sede logica contenuta all’interno della scatola (foto n. 1) e la sonda da posizionare sopra le foglie delle piante (foto n. 2). Ho provato a ricreare un sistema di misurazione diretta dell’emissione di fluorescenza da parte della clorofilla a durante la fotosintesi, producendo dati che consentissero di ottenere il transient Ojip tramite cui calcolare informazioni su come avviene il processo di fotosintesi nella pianta, come la massima efficienza di fotolisi dell’acqua, la resa quantica delle reazioni fotochimiche primarie, la resa quantica massima per il trasporto degli elettroni oppure la capacità potenziale per la conservazione dell’energia dei fotoni assorbiti. Queste informazioni servono per determinare il valore della ricompensa o sanzione da attribuire al partecipante. Ovviamente il lavoro non ha alcuna pretesa di rigore scientifico ed è stato svolto con un fare speculativo e con lo scopo di presentare la mia proposta artistica."
+  },
+  {
+    "objectID": "progetti/ecophylla.html#interfaccia-web",
+    "href": "progetti/ecophylla.html#interfaccia-web",
+    "title": "ECOPHYLLa",
+    "section": "Interfaccia web",
+    "text": "Interfaccia web\nL’interfaccia web consente ai partecipanti di poter visualizzare il saldo, le statistiche e l’andamento storico propri e di tutti gli altri partecipanti della comunità. L’applicazione backend di ECOPHYLLa preleva i dati dal database e genera una pagina HTML formata da una tabella in cui in ogni riga vengono riportate le informazioni di ogni singolo partecipante: la media delle sue statistiche e il suo saldo. Facendo click sul nome del partecipante è possibile accedere a una visualizzazione più approfondita dello storico del partecipante. Vengono infatti aperte due ulteriori sezioni che mostrano un grafico a candele, che presenta l’andamento economico del partecipante nel corso del tempo, e l’elenco di tutti i punteggi ottenuti in ogni misurazione effettuata, con indicato se i punteggi hanno condotto a una ricompensa oppure a una sanzione. La pagina web si aggiorna automaticamente ogni 5 minuti e l’orario dell’ultimo aggiornamento effettuato è sempre mostrato nell’angolo in alto a destra."
+  },
+  {
+    "objectID": "progetti/ecophylla.html#scarica-la-tesi",
+    "href": "progetti/ecophylla.html#scarica-la-tesi",
+    "title": "ECOPHYLLa",
+    "section": "Scarica la tesi",
+    "text": "Scarica la tesi\n\nECOPHYLLa. Uno spazio per l’incontro multispecie (pdf)"
+  },
+  {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Bio",
+    "section": "",
+    "text": "Ciao, mi chiamo Enrico e sono un appassionato di arte postmediale. Il mio interesse è rivolto verso la creazione di spazi virtuali in cui coltivare ciò che Haraway definisce incontro multispecie, ossia luoghi in cui riscoprire e rinsaldare relazioni tra gli esseri che abitano il pianeta Terra, promuovendo pratiche che facciano un uso diverso degli strumenti tecnologici a nostra disposizione.\n\nFormazione\n\nNuove Tecnologie dell’Arte, Accademia Albertina di Belle Arti di Torino, Torino, Italia [2020-2023]\nDiscipline delle Arti, della Musica e dello Spettacolo, Università di Torino, Torino, Italia [2017-2020]"
+  },
+  {
+    "objectID": "progetti/santagata.html",
+    "href": "progetti/santagata.html",
+    "title": "Sant’Agata",
+    "section": "",
+    "text": "Traendo spunto dagli esperimenti condotti da Cleve Backster, per questo “Concerto breve per piante da appartamento” abbiamo lavorato sulla costruzione di un sistema che consentisse di far suonare [to play] una pianta, creando una rappresentazione sonora della propria intelligenza emotiva, simbolicamente percepibile a noi umani. Il sistema è costituito da un sensore per elettrocardiogramma che monitora il potenziale d’azione della pianta - i segnali elettrici dovuti all’attività di comunicazione tra cellule, resa possibile da plasmodesmi, floema e xilema - attraverso elettrodi posti sulle foglie e lungo il fusto del vegetale.\nI dati derivanti dal monitoraggio sono elaborati, trasformati e analizzati per produrre suoni che testimoniano il comportamento della pianta oppure per decidere l’altezza e la durata del suono da eseguire su uno specifico strumento. L’analisi dei dati consente inoltre di stabilire il ritmo della composizione.\nPer questo nostro primo concerto vegetale sono state coinvolte una sansevieria, una calathea e una pianta di pomodori. \n\nIn rotazione su Fango Radio da Settembre 2023…"
+  },
+  {
+    "objectID": "progetti/photosynthetic_you.html",
+    "href": "progetti/photosynthetic_you.html",
+    "title": "Photosynthetic You",
+    "section": "",
+    "text": "Visita il sito del progetto"
+  },
+  {
+    "objectID": "contatti.html",
+    "href": "contatti.html",
+    "title": "Contatti",
+    "section": "",
+    "text": "Email: enricoturletti@gmail.com\nCurriculum vitae et studiorum"
+  }
+]
