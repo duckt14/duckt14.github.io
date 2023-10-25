@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Bio",
+    "section": "",
+    "text": "Hi, I’m Enrico! I’m interested in ecological art and postmedia practices and I have a transdisciplinary approach that moves through posthuman philosophy, computer science, visual and sound.\n\nAOS\n\n\nEcological Art\nPostmedia Art\nNew Media Art\nBio Art\nPosthuman theory\n\n\nAcademic background\n\n\nMaster’s degree in New Technology of Arts, Accademia Albertina of Fine Arts of Turin, Turin, Italy [2020-2023]\nBachelor’s degree in Discipline of Arts, Music and Entertainment, University of Turin, Turin, Italy [2017-2020]"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "Email: enricoturletti@gmail.com\nCurriculum vitae et studiorum"
+  },
+  {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
+    "section": "",
+    "text": "The result of a jam session in my vegetable garden for testing the system which allows human, plant and computer to make and play music together. This track is made by my interaction with Jerusalem artichoke (Helianthus tuberosus) and cellular automata algorithm.\n\n\n\nEnrico Turletti · Ciapinabò (Home garden, improvisation)"
+  },
+  {
+    "objectID": "music.html#ciapinabò-home-garden-improvisation",
+    "href": "music.html#ciapinabò-home-garden-improvisation",
+    "title": "Music",
+    "section": "",
+    "text": "The result of a jam session in my vegetable garden for testing the system which allows human, plant and computer to make and play music together. This track is made by my interaction with Jerusalem artichoke (Helianthus tuberosus) and cellular automata algorithm.\n\n\n\nEnrico Turletti · Ciapinabò (Home garden, improvisation)"
+  },
+  {
+    "objectID": "music.html#bidens-frondosa-turin-murazzi",
+    "href": "music.html#bidens-frondosa-turin-murazzi",
+    "title": "Music",
+    "section": "Bidens frondosa (Turin, Murazzi)",
+    "text": "Bidens frondosa (Turin, Murazzi)\nThe track is my first result obtained by interaction between data recorded from Bidens frondosa and the cellular automata algorithm.\n\n\n\nEnrico Turletti · Bidens frondosa (Turin, Murazzi)"
+  },
+  {
+    "objectID": "music.html#santagata---fango-radio",
+    "href": "music.html#santagata---fango-radio",
+    "title": "Music",
+    "section": "Sant’Agata - Fango Radio",
+    "text": "Sant’Agata - Fango Radio\nTaking inspiration from the experiments conducted by Cleve Backster, for this first “Short Concert for Houseplants” intitled Sant’Agata we worked on the construction of a system that allows a plant to play, for creating a sound representation of its emotional intelligence symbolically perceptible to us humans. The system that I constructed consists of an electrocardiogram sensor that monitors the potential action of the plant - the electrical signals due to the communication activity between cells, made possible by plasmodesmata, phloem and xylem - through electrodes placed on the leaves and along the stem of the vegetable. The data resulting from monitoring are processed, transformed and analyzed to produce sounds that demonstrate the behavior of the plant or to decide the pitch and duration of the sound to be played on a specific virtual instrument. Data analysis also allows you to establish the rhythm of the composition. For this first plant concert a sansevieria, a calathea and a tomato plant were involved.\nThe piece was made in collaboration with Eugenio Nicolella and Lorenzo Peluffo.\n\n\n\nEnrico Turletti · Sant'Agata. Concerto breve per piante da appartamento"
+  }
+]
