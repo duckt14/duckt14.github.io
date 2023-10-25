@@ -1,0 +1,14 @@
+---
+title: "Exhibitions"
+link-external-newwindow: true
+toc: true
+toc-title: "List of exhibitions"
+---
+
+## Short Concert for Houseplants
+###### Istituto Italiano della Cultura, Madrid, Spain.
+###### 6 october - 21 october 2023
+<br>
+<div>
+  <img src="images/short_concert_for_houseplants-madrid2023.jpg" class="grid-gallery-image-pic"/>
+</div>

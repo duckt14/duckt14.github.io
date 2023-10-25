@@ -1,0 +1,29 @@
+---
+title: "Music"
+link-external-newwindow: true
+toc: true
+toc-title: "List of pieces"
+---
+## Ciapinabò (Home garden, improvisation)
+
+The result of a jam session in my vegetable garden for testing the system which allows human, plant and computer to make and play music together.
+This track is made by my interaction with Jerusalem artichoke (*Helianthus tuberosus*) and cellular automata algorithm.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1641128997&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/ciapinabo-home-garden-improvisation" title="Ciapinabò (Home garden, improvisation)" target="_blank" style="color: #cccccc; text-decoration: none;">Ciapinabò (Home garden, improvisation)</a></div>
+
+## Bidens frondosa (Turin, Murazzi)
+
+The track is my first result obtained by interaction between data recorded from Bidens frondosa and the cellular automata algorithm.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1630634262&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/bidens-frondosa-turin-murazzi" title="Bidens frondosa (Turin, Murazzi)" target="_blank" style="color: #cccccc; text-decoration: none;">Bidens frondosa (Turin, Murazzi)</a></div>
+
+## Sant'Agata - Fango Radio
+
+Taking inspiration from the experiments conducted by Cleve Backster, for this first "Short Concert for Houseplants" intitled *Sant'Agata* we worked on the construction of a system that allows a plant to play, for creating a sound representation of its emotional intelligence symbolically perceptible to us humans.<br>
+The system that I constructed consists of an electrocardiogram sensor that monitors the potential action of the plant - the electrical signals due to the communication activity between cells, made possible by plasmodesmata, phloem and xylem - through electrodes placed on the leaves and along the stem of the vegetable.<br>
+The data resulting from monitoring are processed, transformed and analyzed to produce sounds that demonstrate the behavior of the plant or to decide the pitch and duration of the sound to be played on a specific virtual instrument. Data analysis also allows you to establish the rhythm of the composition.<br>
+For this first plant concert a sansevieria, a calathea and a tomato plant were involved.
+
+The piece was made in collaboration with Eugenio Nicolella and Lorenzo Peluffo.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1600063380%3Fsecret_token%3Ds-B8OS7gEuTwn&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/santagata-concerto-breve-per-piante-da-appartamento/s-B8OS7gEuTwn" title="Sant&#x27;Agata. Concerto breve per piante da appartamento" target="_blank" style="color: #cccccc; text-decoration: none;">Sant&#x27;Agata. Concerto breve per piante da appartamento</a></div>

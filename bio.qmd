@@ -1,0 +1,19 @@
+---
+title: "Bio"
+link-external-newwindow: true
+toc: true
+toc-title: "Toc"
+---
+
+Hi, I'm Enrico! I’m interested in ecological art and postmedia practices and I have a transdisciplinary approach that moves through posthuman philosophy, computer science, visual and sound.
+
+<h3>AOS</h3>
+* Ecological Art
+* Postmedia Art
+* New Media Art
+* Bio Art
+* Posthuman theory
+
+<h3>Academic background</h3>
+* **Master's degree in New Technology of Arts**, Accademia Albertina of Fine Arts of Turin, Turin, Italy [2020-2023]
+* **Bachelor's degree in Discipline of Arts, Music and Entertainment**, University of Turin, Turin, Italy [2017-2020]

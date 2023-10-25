@@ -1,0 +1,9 @@
+---
+title: "Contacts"
+link-external-newwindow: true
+toc: true
+toc-title: "Toc"
+---
+
+* **Email**: <enricoturletti@gmail.com>
+* [**Curriculum vitae et studiorum**](CV_EnricoTurletti.pdf)

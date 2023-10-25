@@ -5,9 +5,9 @@ project:
 website:
   title: "Enrico Turletti"
   favicon: et_favicon.png
-  open-graph: 
-    locale: it
-    site-name: Enrico Turletti
+  open-graph:
+    locale: "it"
+    site-name: "Enrico Turletti"
     description: "Sito web di Enrico Turletti"
     image: "et_favicon.png"
   sidebar: 
