@@ -8,7 +8,7 @@ website:
   open-graph:
     locale: "it"
     site-name: "Enrico Turletti"
-    description: "Sito web di Enrico Turletti"
+    description: "Enrico Turletti is an artist interested in ecological art and postmedia practices. He has a transdisciplinary approach that moves through posthuman philosophy, computer science, visual and sound."
     image: "et_favicon.png"
   sidebar: 
     style: "floating"
