@@ -55,4 +55,13 @@
     .quarto-secondary-nav {
         display: inline;
     }
+    .mobile-index {
+      display: inline;
+    }
+}
+@media (min-width: 991.98px) {
+  .mobile-index {
+    display: none;
+    visibility: hidden;
+  }
 }
