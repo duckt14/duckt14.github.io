@@ -7,11 +7,17 @@ toc-title: "Toc"
 <div class="mobile-index">
   <h2>Last exhibition</h2>
   <h3><a href="https://enricoturletti.com/exhibitions.html#short-concert-for-houseplants">Short Concert for Houseplants</a></h3>
-  <h6>Istituto Italiano della Cultura, Madrid, Spain.</h6>
-  <h6>6 october - 21 october 2023</h6>
-  <br>
-  <div><img src="images/short_concert_for_houseplants-madrid2023.jpg" class="grid-gallery-image-pic"/></div>
-  
+<h6>With Fortuna De Nardo, Eugenio Nicolella and Lorenzo Peluffo</h6>
+<h6>Istituto Italiano della Cultura, Madrid, Spain.</h6>
+<h6>6 october - 21 october 2023</h6>
+<br>
+Taking inspiration from the experiments conducted by Cleve Backster, in Short Concert for Houseplants we worked on the construction of a system that allowed a plant to play, with the aim of creating a sound representation of its emotional intelligence that was perceptible to us humans.<br>
+The system consists of instruments that monitor the bioelectrical activity of the plants involved. The data resulting from monitoring is processed, transformed and analyzed to establish the pitch, duration, rhythm and timbre of the sounds generated through the computer.<br>
+For this Short Concert for Houseplants the composition was created by us humans during the process of creating sounds together with the plants.
+<br><br><br>
+<div>
+  <img src="images/short_concert_for_houseplants-madrid2023.jpg" class="grid-gallery-image-pic"/>
+</div>
   <h2>Suggested listening for you</h2>
   <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1641128997&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/ciapinabo-home-garden-improvisation" title="Ciapinabò (Home garden, improvisation)" target="_blank" style="color: #cccccc; text-decoration: none;">Ciapinabò (Home garden, improvisation)</a></div>
 </div>
