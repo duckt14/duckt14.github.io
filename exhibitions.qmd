@@ -4,7 +4,13 @@ link-external-newwindow: true
 toc: true
 toc-title: "List of exhibitions"
 ---
-
+<div class="navbar">
+  <a href="index.html">Enrico Turletti</a>
+  <a href="bio.html">Bio</a>
+  <a href="contacts.html">Contacts</a>
+  <a href="#">Exhibitions</a>
+  <a href="music.html">Music</a>
+</div>
 ## Short Concert for Houseplants
 ###### With Fortuna De Nardo, Eugenio Nicolella and Lorenzo Peluffo
 ###### Istituto Italiano della Cultura, Madrid, Spain.
@@ -13,7 +19,10 @@ toc-title: "List of exhibitions"
 Taking inspiration from the experiments conducted by Cleve Backster, in Short Concert for Houseplants we worked on the construction of a system that allowed a plant to play, with the aim of creating a sound representation of its emotional intelligence that was perceptible to us humans.<br>
 The system consists of instruments that monitor the bioelectrical activity of the plants involved. The data resulting from monitoring is processed, transformed and analyzed to establish the pitch, duration, rhythm and timbre of the sounds generated through the computer.<br>
 For this Short Concert for Houseplants the composition was created by us humans during the process of creating sounds together with the plants.
-<br><br><br>
+<br><br>
 <div>
   <img src="images/short_concert_for_houseplants-madrid2023.jpg" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/short_concert_for_houseplants_2-madrid2023.jpg" class="grid-gallery-image-pic"/>
 </div>

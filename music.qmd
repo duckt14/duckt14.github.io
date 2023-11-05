@@ -4,6 +4,13 @@ link-external-newwindow: true
 toc: true
 toc-title: "List of pieces"
 ---
+<div class="navbar">
+  <a href="index.html">Enrico Turletti</a>
+  <a href="bio.html">Bio</a>
+  <a href="contacts.html">Contacts</a>
+  <a href="exhibitions.html">Exhibitions</a>
+  <a href="#">Music</a>
+</div>
 ## Ciapinabò (Home garden, improvisation)
 
 The result of a jam session in my vegetable garden for testing the system which allows human, plant and computer to make and play music together.

@@ -4,6 +4,12 @@ link-external-newwindow: true
 toc: true
 toc-title: "Toc"
 ---
-
+<div class="navbar">
+  <a href="index.html">Enrico Turletti</a>
+  <a href="bio.html">Bio</a>
+  <a href="#">Contacts</a>
+  <a href="exhibitions.html">Exhibitions</a>
+  <a href="music.html">Music</a>
+</div>
 * **Email**: <enricoturletti@gmail.com>
 * [**Curriculum vitae et studiorum**](CV_EnricoTurletti.pdf)

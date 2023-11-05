@@ -7,6 +7,14 @@
 }
 
 /*-- scss:rules --*/
+.quarto-title > h1.title {
+  display: none !important;
+  visibility: hidden;
+  opacity: 0 !important;
+}
+.navbar {
+  background-color: #ff0000;
+}
 .grid-gallery {
   width: 100%;
   height: auto;
@@ -47,20 +55,37 @@
 }
 @media (max-width: 991.98px) {
     #quarto-header {
-      background-color: #002b36;
+      visibility: hidden;
+      display: none;
     }
     header.headroom--unpinned {
-      transform: translateY(0);
+      visibility: hidden;
+      display: none;
     }
     .quarto-secondary-nav {
-        display: inline;
+      visibility: hidden;
+      display: none;
     }
-    .mobile-index {
-      display: inline;
+    //.mobile-index {
+    //  display: inline;
+    //}
+    .navbar {
+      display: block;
+      visibility: visible;
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      margin: auto !important;
+      background-color: #002b36 !important;
+      z-index: 9999;
     }
 }
 @media (min-width: 991.98px) {
   .mobile-index {
+    display: none;
+    visibility: hidden;
+  }
+  .navbar {
     display: none;
     visibility: hidden;
   }
