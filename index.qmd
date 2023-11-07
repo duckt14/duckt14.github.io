@@ -5,18 +5,21 @@ toc: true
 toc-title: "Toc"
 ---
 <div class="navbar">
-  <a href="#">Enrico Turletti</a>
+  <div class="index-logo"><a href="index.html">Enrico Turletti</a></div>
+  <div class="other-links">
   <a href="bio.html">Bio</a>
   <a href="contacts.html">Contacts</a>
   <a href="exhibitions.html">Exhibitions</a>
   <a href="music.html">Music</a>
+  <hr>
+  </div>
 </div>
 <div class="mobile-index">
   <h1>Last exhibition</h1>
   <hr>
   <h3><a href="https://enricoturletti.com/exhibitions.html#short-concert-for-houseplants">Short Concert for Houseplants</a></h3>
 <h6>With Fortuna De Nardo, Eugenio Nicolella and Lorenzo Peluffo</h6>
-<h6>Istituto Italiano della Cultura, Madrid, Spain.</h6>
+<h6>Istituto Italiano di Cultura, Madrid, Spain.</h6>
 <h6>6 october - 21 october 2023</h6>
 <br>
 Taking inspiration from the experiments conducted by Cleve Backster, in Short Concert for Houseplants we worked on the construction of a system that allowed a plant to play, with the aim of creating a sound representation of its emotional intelligence that was perceptible to us humans.<br>

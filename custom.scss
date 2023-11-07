@@ -12,9 +12,6 @@
   visibility: hidden;
   opacity: 0 !important;
 }
-.navbar {
-  background-color: #ff0000;
-}
 .grid-gallery {
   width: 100%;
   height: auto;
@@ -66,9 +63,6 @@
       visibility: hidden;
       display: none;
     }
-    //.mobile-index {
-    //  display: inline;
-    //}
     .navbar {
       display: block;
       visibility: visible;
@@ -78,6 +72,29 @@
       margin: auto !important;
       background-color: #002b36 !important;
       z-index: 9999;
+    }
+    .navbar a:link {
+      color: #adb5bd !important;
+      text-decoration: none;
+    }
+    .navbar a:visited {
+      color: #adb5bd !important;
+      text-decoration: none;
+    }
+    .navbar a:hover {
+      color: #adb5bd !important;
+      text-decoration: none;
+    }
+    .navbar a:active {
+      color: #adb5bd !important;
+      text-decoration: none;
+    }
+    .index-logo {
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+    .other-links {
+      font-size: 1em;
     }
 }
 @media (min-width: 991.98px) {

@@ -5,15 +5,18 @@ toc: true
 toc-title: "List of exhibitions"
 ---
 <div class="navbar">
-  <a href="index.html">Enrico Turletti</a>
+  <div class="index-logo"><a href="index.html">Enrico Turletti</a></div>
+  <div class="other-links">
   <a href="bio.html">Bio</a>
   <a href="contacts.html">Contacts</a>
   <a href="#">Exhibitions</a>
   <a href="music.html">Music</a>
+  <hr>
+  </div>
 </div>
 ## Short Concert for Houseplants
-###### With Fortuna De Nardo, Eugenio Nicolella and Lorenzo Peluffo
-###### Istituto Italiano della Cultura, Madrid, Spain.
+###### **With Fortuna De Nardo, Eugenio Nicolella and Lorenzo Peluffo**
+###### Istituto Italiano di Cultura, Madrid, Spain.
 ###### 6 october - 21 october 2023
 <br>
 Taking inspiration from the experiments conducted by Cleve Backster, in Short Concert for Houseplants we worked on the construction of a system that allowed a plant to play, with the aim of creating a sound representation of its emotional intelligence that was perceptible to us humans.<br>
@@ -26,3 +29,13 @@ For this Short Concert for Houseplants the composition was created by us humans 
 <div>
   <img src="images/short_concert_for_houseplants_2-madrid2023.jpg" class="grid-gallery-image-pic"/>
 </div>
+<br><br>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1658727504&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/concerto-breve-per-piante-da-appartamento-istituto-italiano-di-cultura-madrid-2023" title="Concerto breve per piante da appartamento ✿ Istituto Italiano di Cultura, Madrid 2023" target="_blank" style="color: #cccccc; text-decoration: none;">Concerto breve per piante da appartamento ✿ Istituto Italiano di Cultura, Madrid 2023</a></div>
+<br>
+<h3>Related articles</h3>
+<hr>
+* <a href="https://iicmadrid.esteri.it/it/gli_eventi/calendario/mi-prendo-cura-di-me-a-cura-di-recontemporary-di-torino/">https://iicmadrid.esteri.it/it/gli_eventi/calendario/mi-prendo-cura-di-me-a-cura-di-recontemporary-di-torino/</a>
+
+* <a href="https://italiana.esteri.it/italiana/eventi/a-madrid-la-mostra-mi-prendo-cura-di-me-per-la-giornata-del-contemporaneo/">https://italiana.esteri.it/italiana/eventi/a-madrid-la-mostra-mi-prendo-cura-di-me-per-la-giornata-del-contemporaneo/</a>
+
+* <a href="https://recontemporary.com/mostre/mostra-collettiva-mi-prendo-cura-di-me/">https://recontemporary.com/mostre/mostra-collettiva-mi-prendo-cura-di-me/</a>
