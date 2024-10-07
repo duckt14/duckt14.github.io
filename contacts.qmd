@@ -14,5 +14,8 @@ toc-title: "Toc"
   <hr>
   </div>
 </div>
-* **Email**: <enricoturletti@gmail.com>
-* [**Curriculum vitae et studiorum**](CV_EnricoTurletti.pdf)
+<ul class="aos-ul">
+<li>**Instagram**: <a href="https://www.instagram.com/enrico_turletti">@enrico_turletti</a></li>
+<li>**Email**: <enricoturletti@gmail.com></li>
+<li>[**Curriculum vitae et studiorum**](CV_EnricoTurletti.pdf)</li>
+</ul>

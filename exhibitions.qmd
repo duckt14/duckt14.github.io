@@ -14,28 +14,118 @@ toc-title: "List of exhibitions"
   <hr>
   </div>
 </div>
-## Short Concert for Houseplants
-###### **With Fortuna De Nardo, Eugenio Nicolella and Lorenzo Peluffo**
-###### Istituto Italiano di Cultura, Madrid, Spain.
-###### 6 october - 21 october 2023
+<!-- ## Gallus gallus. Diary of 10 Days in August -->
+<!-- ##### With Lorenzo Peluffo -->
+<!-- ###### Superbudda - Docks Dora Turin, Italy -->
+<!-- <br> -->
+<!-- <p> -->
+<!-- Testo di prova. -->
+<!-- </p> -->
+<!-- <br><br><br> -->
+
+## Study for a Sound Garden in Val Susa
+##### With Lorenzo Peluffo
+###### The Forte of Exilles, Turin, Italy
 <br>
-Taking inspiration from the experiments conducted by Cleve Backster, in Short Concert for Houseplants we worked on the construction of a system that allowed a plant to play, with the aim of creating a sound representation of its emotional intelligence that was perceptible to us humans.<br>
-The system consists of instruments that monitor the bioelectrical activity of the plants involved. The data resulting from monitoring is processed, transformed and analyzed to establish the pitch, duration, rhythm and timbre of the sounds generated through the computer.<br>
-For this Short Concert for Houseplants the composition was created by us humans during the process of creating sounds together with the plants.
+<p>The installation creates a space where we foster a unique collaboration between humans, wild plants that once grew on the slopes of the Forte of Exilles, and a computer.<br>
+The computer monitors the room's environment—tracking temperature, humidity, air pressure, light intensity, and air quality—while also gathering data from the plants in the garden. Through sensors placed on their leaves, the system reads the plants' electrical pulses per minute and their phytoneural activity.<br>
+Inside the computer, an artificial intelligence processes this data and transforms it into sound, which serves as the auditory backdrop of the installation.</p>
 <br><br>
 <div>
-  <img src="images/short_concert_for_houseplants-madrid2023.jpg" class="grid-gallery-image-pic"/>
+  <img src="images/study_for_sound_garden/study-for-sound-garden-val-susa-1.webp" class="grid-gallery-image-pic"/>
 </div>
 <div>
-  <img src="images/short_concert_for_houseplants_2-madrid2023.jpg" class="grid-gallery-image-pic"/>
+  <img src="images/study_for_sound_garden/study-for-sound-garden-val-susa-2.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/study_for_sound_garden/study-for-sound-garden-val-susa-3.webp" class="grid-gallery-image-pic"/>
+</div>
+<br><br><br>
+
+## Immortal Nature
+##### With Vanessa Vozzo and Mariapaola Infuso
+###### Pastis, Turin, Italy
+###### 20 June 2024
+<br>
+<p>Immortal Nature is an audiovisual installation that connects a plant, to be precise an alocasia, with an artificial intelligence system. The installation explores a potential future scenario where the organic and the inorganic collaborate. Artificial intelligence simulates an ultra-innovative genetic technique that aims to speculatively modify the plant's DNA to make it immortal.<br>
+The work explores new scenarios and new forms of power in the field of biotechnology in which the machine is able to intervene on the genetic sequences of living beings in an automated manner.<br>
+In the installation, artificial intelligence monitors both the environment in which the plant is placed and its state of health. By examining the data collected through the sensors, it generates new DNA sequences with which they replace the genes considered harmful to the plant. The two monitors on the sides of the alocasia show processes that cannot be observed with the naked eye. It is thus possible to view the vital parameters of the plant, the problems found within its organism and the solutions implemented by the machine to re-establish the ideal condition of immortality. A real-time generative soundscape based on the slow tropisms of the plant and the genetic codes produced by the machine describes the relationship between the organic and the inorganic.</p>
+<br><br>
+<div>
+  <img src="images/immortal_nature/immortal_nature-1.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/immortal_nature/immortal_nature-2.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/immortal_nature/immortal_nature-3.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/immortal_nature/immortal_nature-4.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/immortal_nature/immortal_nature-5.webp" class="grid-gallery-image-pic"/>
+</div>
+<br><br><br>
+
+## Symbiotic Concert
+##### With Lorenzo Peluffo
+###### Lavanderia a Vapore, Turin, Italy.
+###### L'Orto che cura, Collegno, Italy.
+<br>
+<p>Holobiont is an installation that involves humans, plants and computers in the process of music creation. The collaboration between these three beings is made possible by a system that monitors the behaviour of humans and plants by means of sensors for body diagnostics and sensors for environmental monitoring. The data produced by these devices are analysed and processed by algorithms and neural networks to generate music in real time, establishing the timbres and structure of the composition based on the different behaviours observed.<br>
+Holobiont presents a reflection on the inclusion of non-human beings within human society, a topic that raises questions about how we view and represent them within our institutions and organisations. By involving humans and non-humans within an artistic process such as music through the mediation of technology, Holobiont proposes an experience in which we can enjoy a way of living based on alliance and the altruistic rediscovery of relationships.</p>
+<br><br>
+<div style="border-radius: 8px; overflow: hidden;">
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Fvlh-bCybjI?si=_9DZ_I-EvEI_KBR7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+<div>
+  <img src="images/symbiotic_concert_orto/ET-Symbiotic_Concert-Orto-1.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/symbiotic_concert_orto/ET-Symbiotic_Concert-Orto-2.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/symbiotic_concert_orto/ET-Symbiotic_Concert-Orto-4.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/symbiotic_concert_orto/ET-Symbiotic_Concert-Orto-3.webp" class="grid-gallery-image-pic"/>
+</div>
+<br><br>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1804250223&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/symbiotic-concert-lorto-che-cura-collegno" title="Symbiotic Concert - L&#x27;orto che cura, Collegno" target="_blank" style="color: #cccccc; text-decoration: none;">Symbiotic Concert - L&#x27;orto che cura, Collegno</a></div>
+<br><br><br>
+
+## Short Concert for Houseplants
+##### With Fortuna De Nardo, Eugenio Nicolella and Lorenzo Peluffo
+###### Istituto Italiano di Cultura, Madrid, Spain.
+###### 6 October - 21 October 2023
+<br>
+<p>Taking inspiration from the experiments conducted by Cleve Backster, in Short Concert for Houseplants we worked on the construction of a system that allowed a plant to play, with the aim of creating a sound representation of its emotional intelligence that was perceptible to us humans.<br>
+The system consists of instruments that monitor the bioelectrical activity of the plants involved. The data resulting from monitoring is processed, transformed and analyzed to establish the pitch, duration, rhythm and timbre of the sounds generated through the computer.<br>
+For this Short Concert for Houseplants the composition was created by us humans during the process of creating sounds together with the plants.</p>
+<br><br>
+<div>
+  <img src="images/short_concert_for_houseplants/ET-Short_concert_for_houseplants_1-Madrid_2023.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/short_concert_for_houseplants/ET-Short_concert_for_houseplants_2-Madrid_2023.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/short_concert_for_houseplants/ET-Short_concert_for_houseplants_4-Madrid_2023.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/short_concert_for_houseplants/ET-Short_concert_for_houseplants_3-Madrid_2023.webp" class="grid-gallery-image-pic"/>
 </div>
 <br><br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1658727504&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/concerto-breve-per-piante-da-appartamento-istituto-italiano-di-cultura-madrid-2023" title="Concerto breve per piante da appartamento ✿ Istituto Italiano di Cultura, Madrid 2023" target="_blank" style="color: #cccccc; text-decoration: none;">Concerto breve per piante da appartamento ✿ Istituto Italiano di Cultura, Madrid 2023</a></div>
 <br>
 <h3>Related articles</h3>
 <hr>
-* <a href="https://iicmadrid.esteri.it/it/gli_eventi/calendario/mi-prendo-cura-di-me-a-cura-di-recontemporary-di-torino/">https://iicmadrid.esteri.it/it/gli_eventi/calendario/mi-prendo-cura-di-me-a-cura-di-recontemporary-di-torino/</a>
+<ul class="ul-related-articles">
+<li><a href="https://iicmadrid.esteri.it/it/gli_eventi/calendario/mi-prendo-cura-di-me-a-cura-di-recontemporary-di-torino/">https://iicmadrid.esteri.it/it/gli_eventi/calendario/mi-prendo-cura-di-me-a-cura-di-recontemporary-di-torino/</a></li>
 
-* <a href="https://italiana.esteri.it/italiana/eventi/a-madrid-la-mostra-mi-prendo-cura-di-me-per-la-giornata-del-contemporaneo/">https://italiana.esteri.it/italiana/eventi/a-madrid-la-mostra-mi-prendo-cura-di-me-per-la-giornata-del-contemporaneo/</a>
+<li><a href="https://italiana.esteri.it/italiana/eventi/a-madrid-la-mostra-mi-prendo-cura-di-me-per-la-giornata-del-contemporaneo/">https://italiana.esteri.it/italiana/eventi/a-madrid-la-mostra-mi-prendo-cura-di-me-per-la-giornata-del-contemporaneo/</a></li>
 
-* <a href="https://recontemporary.com/mostre/mostra-collettiva-mi-prendo-cura-di-me/">https://recontemporary.com/mostre/mostra-collettiva-mi-prendo-cura-di-me/</a>
+<li><a href="https://recontemporary.com/mostre/mostra-collettiva-mi-prendo-cura-di-me/">https://recontemporary.com/mostre/mostra-collettiva-mi-prendo-cura-di-me/</a></li>
+</ul>

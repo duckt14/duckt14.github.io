@@ -15,15 +15,13 @@ website:
     alignment: center
     search: false
     contents: auto
-    tools:
-      - icon: instagram
-        href: https://instagram.com/enrico_turletti/
 format:
   html:
     theme: 
-      - solar
+      - default
       - custom.scss
-    mainfont: Tahoma
+    backgroundcolor: "#ffffff"
+    mainfont: Sanfrisco
     toc: false
 filters: 
   - externalink.lua

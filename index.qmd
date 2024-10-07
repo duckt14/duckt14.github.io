@@ -1,4 +1,5 @@
 ---
+title: "Index"
 lang: en
 link-external-newwindow: true
 toc: true
@@ -15,21 +16,28 @@ toc-title: "Toc"
   </div>
 </div>
 <div class="mobile-index">
-  <h1>Last exhibition</h1>
-  <hr>
-  <h3><a href="https://enricoturletti.com/exhibitions.html#short-concert-for-houseplants">Short Concert for Houseplants</a></h3>
-<h6>With Fortuna De Nardo, Eugenio Nicolella and Lorenzo Peluffo</h6>
-<h6>Istituto Italiano di Cultura, Madrid, Spain.</h6>
-<h6>6 october - 21 october 2023</h6>
+  <h2>Immortal Nature</h2>
+  <h5>With Vanessa V(ozzo) and Mariapaola Infuso</h5>
+  <h6>Pastis, Turin, Italy.</h5>
+  <h6>20 June 2024</h5>
 <br>
-Taking inspiration from the experiments conducted by Cleve Backster, in Short Concert for Houseplants we worked on the construction of a system that allowed a plant to play, with the aim of creating a sound representation of its emotional intelligence that was perceptible to us humans.<br>
-The system consists of instruments that monitor the bioelectrical activity of the plants involved. The data resulting from monitoring is processed, transformed and analyzed to establish the pitch, duration, rhythm and timbre of the sounds generated through the computer.<br>
-For this Short Concert for Houseplants the composition was created by us humans during the process of creating sounds together with the plants.
+Immortal Nature is an audiovisual installation that connects a plant, to be precise an alocasia, with an artificial intelligence system. The installation explores a potential future scenario where the organic and the inorganic collaborate. Artificial intelligence simulates an ultra-innovative genetic technique that aims to speculatively modify the plant's DNA to make it immortal.<br>
+The work explores new scenarios and new forms of power in the field of biotechnology in which the machine is able to intervene on the genetic sequences of living beings in an automated manner.<br>
+In the installation, artificial intelligence monitors both the environment in which the plant is placed and its state of health. By examining the data collected through the sensors, it generates new DNA sequences with which they replace the genes considered harmful to the plant. The two monitors on the sides of the alocasia show processes that cannot be observed with the naked eye. It is thus possible to view the vital parameters of the plant, the problems found within its organism and the solutions implemented by the machine to re-establish the ideal condition of immortality. A real-time generative soundscape based on the slow tropisms of the plant and the genetic codes produced by the machine describes the relationship between the organic and the inorganic.
 <br><br><br>
 <div>
-  <img src="images/short_concert_for_houseplants-madrid2023.jpg" class="grid-gallery-image-pic"/>
+  <img src="images/immortal_nature/immortal_nature-1.webp" class="grid-gallery-image-pic"/>
 </div>
-  <h1>Suggested listening for you</h1>
-  <hr>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1641128997&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/ciapinabo-home-garden-improvisation" title="Ciapinabò (Home garden, improvisation)" target="_blank" style="color: #cccccc; text-decoration: none;">Ciapinabò (Home garden, improvisation)</a></div>
+<div>
+  <img src="images/immortal_nature/immortal_nature-2.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/immortal_nature/immortal_nature-3.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/immortal_nature/immortal_nature-4.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/immortal_nature/immortal_nature-5.webp" class="grid-gallery-image-pic"/>
+</div>
 </div>
