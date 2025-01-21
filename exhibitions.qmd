@@ -23,6 +23,31 @@ toc-title: "List of exhibitions"
 <!-- </p> -->
 <!-- <br><br><br> -->
 
+## Gallus gallus. Diary of 10 Nights in August
+##### With Lorenzo Peluffo
+###### Ghëddo, Superbudda, Turin, Italy
+###### 21 October - 1 November 2024
+###### The book is part of the <a href='https://interspecieslibrary.com/'>Interspecies Library</a>, New York City, NY, USA
+<br>
+<p>The project unfolds as an experiment in speculative narrative, intertwining technology, bioacoustics, and futurology.<br>
+In August 2024, we recorded the sounds emitted by two red hens, Monica and Samantha, over ten consecutive nights using a portable recorder and a surveillance camera. The recordings were analyzed to identify the different types of sounds produced during sleep, tracing the sequence and tonal variations, with the aim of creating a ten-night diary.<br>
+This process led to the development of an artificial intelligence capable of delivering a revelation each morning to the human living alongside the hens. This AI functions as a digital oracle: it processes the hens' nighttime sounds and, like a modern-day dream interpreter, transforms their memory into a narrative of the future, shared with the human.<br>
+The installation featured a book narrating the project and illustrating the ten-night diary, along with two monitors displaying footage from the surveillance camera and a visual representation of the artificial intelligence at work.</p>
+<br><br>
+<div>
+  <img src="images/gallus_gallus/gallus_0.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/gallus_gallus/gallus_1.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/gallus_gallus/gallus_2.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/gallus_gallus/gallus_3.webp" class="grid-gallery-image-pic"/>
+</div>
+<br><br><br>
+
 ## Study for a Sound Garden in Val Susa
 ##### With Lorenzo Peluffo
 ###### The Forte of Exilles, Turin, Italy
