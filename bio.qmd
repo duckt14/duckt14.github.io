@@ -1,5 +1,6 @@
 ---
 title: "Bio"
+lang: en
 link-external-newwindow: true
 toc: true
 toc-title: "Toc"

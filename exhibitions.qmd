@@ -1,5 +1,6 @@
 ---
 title: "Works"
+lang: en
 link-external-newwindow: true
 toc: true
 toc-title: "List of works"
@@ -97,7 +98,7 @@ Inside the computer, an artificial intelligence processes this data and transfor
 <br><br><br>
 
 ## Immortal Nature
-##### With Vanessa Vozzo and Mariapaola Infuso
+##### With Mariapaola Infuso
 ###### Pastis, Turin, Italy
 ###### 20 June 2024
 <br>

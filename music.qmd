@@ -1,5 +1,6 @@
 ---
 title: "Music"
+lang: en
 link-external-newwindow: true
 toc: true
 toc-title: "List of pieces"
