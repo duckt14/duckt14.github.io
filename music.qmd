@@ -9,7 +9,7 @@ toc-title: "List of pieces"
   <div class="other-links">
   <a href="bio.html">Bio</a>
   <a href="contacts.html">Contacts</a>
-  <a href="exhibitions.html">Exhibitions</a>
+  <a href="exhibitions.html">Works</a>
   <a href="#">Music</a>
   <hr>
   </div>

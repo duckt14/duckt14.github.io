@@ -59,6 +59,10 @@ html h6 {
   font-size: 1.5em;
 }
 
+.link-to-ext a:link, a:visited, a:hover, a:active {
+  color: black;
+}
+
 .aos-ul {
   font-size: 1em;
   list-style: none;

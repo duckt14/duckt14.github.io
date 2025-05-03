@@ -1,33 +1,50 @@
 ---
-title: "Exhibitions"
+title: "Works"
 link-external-newwindow: true
 toc: true
-toc-title: "List of exhibitions"
+toc-title: "List of works"
 ---
 <div class="navbar">
   <div class="index-logo"><a href="index.html">Enrico Turletti</a></div>
   <div class="other-links">
   <a href="bio.html">Bio</a>
   <a href="contacts.html">Contacts</a>
-  <a href="#">Exhibitions</a>
+  <a href="#">Works</a>
   <a href="music.html">Music</a>
   <hr>
   </div>
 </div>
-<!-- ## Gallus gallus. Diary of 10 Days in August -->
-<!-- ##### With Lorenzo Peluffo -->
-<!-- ###### Superbudda - Docks Dora Turin, Italy -->
-<!-- <br> -->
-<!-- <p> -->
-<!-- Testo di prova. -->
-<!-- </p> -->
-<!-- <br><br><br> -->
+## KA//PA//RO
+##### With Lorenzo Peluffo
+###### Visions in Motion, <a class="link-to-ext" href='https://recontemporary.com/' class=>Recontemporary</a>, Cape Town, South Africa
+###### 18 February - 23 February 2025
+<br>
+<p>KA//PA//RO is an audiovisual installation that narrates the encounter between a Juniperus phoenicea grown in Piedmont and the plants inhabiting the garden of the villa that hosted the exhibition.<br>
+To envision how this encounter might have unfolded, we developed a program that simulated the event by creating a system composed of the corresponding virtual plants. As the program ran, we recorded the evolution of the system by monitoring the exchange of volatile organic compounds (VOCs)—a class of chemical compounds used by plants for communication.<br>
+The resulting data is presented in both musical and visual forms:<br>
+❧ Musically, through a soundscape incorporating electronic sounds, sonifications, and manipulated field recordings.<br>
+❧ Visually, through graphic interfaces displaying the software simulation: one animated graph, where the system’s evolution is visible, and three other screens where the system is transformed into a sonic structure.<br>
+This work is part of our ongoing research into interspecies thinking and speculative storytelling practices. Through this exploration, we develop new forms of collaboration and connection between different organisms, embracing their distinct perspectives by employing contemporary technological tools.</p>
+<br><br>
+<div>
+  <img src="images/kaparo/kaparo-1.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/kaparo/kaparo-2.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/kaparo/kaparo-3.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/kaparo/kaparo-4.webp" class="grid-gallery-image-pic"/>
+</div>
+<br><br><br>
 
 ## Gallus gallus. Diary of 10 Nights in August
 ##### With Lorenzo Peluffo
 ###### Ghëddo, Superbudda, Turin, Italy
 ###### 23 October - 1 November 2024
-###### The book is part of the <a href='https://interspecieslibrary.com/'>Interspecies Library</a>, New York City, NY, USA
+###### The book is part of the <a class="link-to-ext" href='https://interspecieslibrary.com/'>Interspecies Library</a>, New York City, NY, USA
 <br>
 <p>The project unfolds as an experiment in speculative narrative, intertwining technology, bioacoustics, and futurology.<br>
 In August 2024, we recorded the sounds emitted by two red hens, Monica and Samantha, over ten consecutive nights using a portable recorder and a surveillance camera. The recordings were analyzed to identify the different types of sounds produced during sleep, tracing the sequence and tonal variations, with the aim of creating a ten-night diary.<br>
@@ -45,6 +62,18 @@ The installation featured a book narrating the project and illustrating the ten-
 </div>
 <div>
   <img src="images/gallus_gallus/gallus_3.webp" class="grid-gallery-image-pic"/>
+</div>
+<br><br><br>
+
+## Holobiont
+##### With Lorenzo Peluffo
+###### <a class="link-to-ext" href='https://www.milanomusicweek.it/'>Milano Music Week</a>, <a class="link-to-ext" href='https://linea.media/'>Linea</a>, Milan, Italy
+###### 19 November - 24 November 2024
+<br>
+<p>Holobiont is an audiovisual installation that explores the relationship between plants and their surrounding environment. Through diagnostic sensors, AI monitors the plants’ health, capturing phytoelectrical and phytoneural activity to map behavioral patterns. Additional sensors collect data from the external environment, enabling the AI to analyze trends, predict developments, and even intervene if necessary. The plant’s responses, environmental dynamics, and AI analyses are shared with visitors as a real-time generative soundscape, accompanied by two monitors displaying the sound design process and a graphic produced with a genetic algorithm and cellular automaton—symbolizing the system’s evolution.</p>
+<br><br>
+<div>
+  <img src="images/holobiont/holobiont-linea-1.webp" class="grid-gallery-image-pic"/>
 </div>
 <br><br><br>
 
@@ -95,7 +124,8 @@ In the installation, artificial intelligence monitors both the environment in wh
 
 ## Symbiotic Concert
 ##### With Lorenzo Peluffo
-###### Lavanderia a Vapore, Turin, Italy.
+###### Spring Rolls, <a class="link-to-ext" href='https://www.lavanderiaavapore.eu/'>Lavanderia a Vapore</a>, Turin, Italy.
+###### 26 April - 28 April 2024
 ###### L'Orto che cura, Collegno, Italy.
 <br>
 <p>Holobiont is an installation that involves humans, plants and computers in the process of music creation. The collaboration between these three beings is made possible by a system that monitors the behaviour of humans and plants by means of sensors for body diagnostics and sensors for environmental monitoring. The data produced by these devices are analysed and processed by algorithms and neural networks to generate music in real time, establishing the timbres and structure of the composition based on the different behaviours observed.<br>

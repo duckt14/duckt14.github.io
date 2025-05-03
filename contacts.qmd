@@ -9,13 +9,15 @@ toc-title: "Toc"
   <div class="other-links">
   <a href="bio.html">Bio</a>
   <a href="#">Contacts</a>
-  <a href="exhibitions.html">Exhibitions</a>
+  <a href="exhibitions.html">Works</a>
   <a href="music.html">Music</a>
   <hr>
   </div>
 </div>
+<h3>Stay in touch</h3>
+<hr>
 <ul class="aos-ul">
 <li>**Instagram**: <a href="https://www.instagram.com/enrico_turletti">@enrico_turletti</a></li>
-<li>**Email**: <enricoturletti@gmail.com></li>
-<li>[**Curriculum vitae et studiorum**](CV_EnricoTurletti.pdf)</li>
+<li>**Mastodon**: <a href="https://www.mastodon.uno/@duckt14">@duckt14</a></li>
+<li>**E-mail**: <enricoturletti@gmail.com></li>
 </ul>

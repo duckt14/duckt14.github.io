@@ -9,7 +9,7 @@ toc-title: "Toc"
   <div class="other-links">
   <a href="#">Bio</a>
   <a href="contacts.html">Contacts</a>
-  <a href="exhibitions.html">Exhibitions</a>
+  <a href="exhibitions.html">Works</a>
   <a href="music.html">Music</a>
   <hr>
   </div>
@@ -17,6 +17,16 @@ toc-title: "Toc"
 Hi, I'm Enrico!<br>
 My research is focused on the creation of postmedia practices that explore the human relations with the other beings and the constitution of the human consciousness and the human knowledge through the technologies.<br>
 I have a transdisciplinary approach that moves across posthuman philosophy, science, computer, visual and sound. 
+
+<h3>Exhibitions</h3>
+<hr>
+<ul class="aos-ul">
+<li>Investec Cape Town Art Fair, Cape Town, South Africa</li>
+<li>Milano Music Week, Linea, Milan, Italy</li>
+<li>TO.BE III, Ghëddo, Turin, Italy</li>
+<li>Materie, Osservatorio Futura, Turin, Italy</li>
+<li>Spring Rolls, Lavanderia a Vapore, Turin, Italy</li>
+</ul>
 
 <h3>AOS</h3>
 <hr>
