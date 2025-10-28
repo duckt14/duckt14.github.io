@@ -4,7 +4,7 @@
     "href": "bio.html",
     "title": "Bio",
     "section": "",
-    "text": "Enrico Turletti\n\n\nBio Contacts Works Music\n\n\n\nHi, I’m Enrico! My research is focused on the creation of postmedia practices that explore the human relations with the other beings and the constitution of the human consciousness and the human knowledge through the technologies. I have a transdisciplinary approach that moves across posthuman philosophy, science, computer, visual and sound.\n\nExhibitions\n\n\n\n\nInvestec Cape Town Art Fair, Cape Town, South Africa\n\n\nMilano Music Week, Linea, Milan, Italy\n\n\nTO.BE III, Ghëddo, Turin, Italy\n\n\nMaterie, Osservatorio Futura, Turin, Italy\n\n\nSpring Rolls, Lavanderia a Vapore, Turin, Italy\n\n\n\nAOS\n\n\n\n\nNew Media Art\n\n\nSci-Art\n\n\nPostmedia Art\n\n\nPosthuman Theory\n\n\n\nAcademic background\n\n\n\n\nMaster’s degree in New Technology of Arts, Albertina Academy of Fine Arts of Turin, Turin, Italy [2020-2023]\n\n\nBachelor’s degree in Discipline of Arts, Music and Entertainment, University of Turin, Turin, Italy [2017-2020]"
+    "text": "Enrico Turletti\n\n\nBio Contacts Works Music\n\n\n\nEnrico Turletti graduated in New Technologies of Art from the Albertina Academy of Fine Arts in Turin. His work explores the relationship between human beings and the world, and the formation of human consciousness through technology. With a transdisciplinary approach, he moves between art, computer science, posthuman philosophy, visual culture, and sound. Through speculative fictions, he creates spaces where the human and the more-than-human intertwine in unexpected ways. His works have been presented at various international festivals and venues, including the Italian Cultural Institute in Madrid, Milano Music Week, and Cape Town Art Week. One of his artist’s books is part of the Interspecies Library archive in New York.\n\nExhibitions\n\n\n\n\nInvestec Cape Town Art Fair, Cape Town, South Africa\n\n\nMilano Music Week, Linea, Milan, Italy\n\n\nTO.BE III, Ghëddo, Turin, Italy\n\n\nMaterie, Osservatorio Futura, Turin, Italy\n\n\nSpring Rolls, Lavanderia a Vapore, Turin, Italy\n\n\n\nAOS\n\n\n\n\nNew Media Art\n\n\nSci-Art\n\n\nPostmedia Art\n\n\nPosthuman Theory\n\n\n\nAcademic background\n\n\n\n\nMaster’s degree in New Technology of Arts, Albertina Academy of Fine Arts of Turin, Turin, Italy [2020-2023]\n\n\nBachelor’s degree in Discipline of Arts, Music and Entertainment, University of Turin, Turin, Italy [2017-2020]"
   },
   {
     "objectID": "index.html",
@@ -131,5 +131,54 @@
     "title": "Index",
     "section": "KA//PA//RO",
     "text": "KA//PA//RO\n\nWith Lorenzo Peluffo\n\nVisions in Motion, Recontemporary, Cape Town, South Africa\n\n\n18 February - 23 February 2025\n\n\nKA//PA//RO is an audiovisual installation that narrates the encounter between a Juniperus phoenicea grown in Piedmont and the plants inhabiting the garden of the villa that hosted the exhibition. To envision how this encounter might have unfolded, we developed a program that simulated the event by creating a system composed of the corresponding virtual plants. As the program ran, we recorded the evolution of the system by monitoring the exchange of volatile organic compounds (VOCs)—a class of chemical compounds used by plants for communication. The resulting data is presented in both musical and visual forms: ❧ Musically, through a soundscape incorporating electronic sounds, sonifications, and manipulated field recordings. ❧ Visually, through graphic interfaces displaying the software simulation: one animated graph, where the system’s evolution is visible, and three other screens where the system is transformed into a sonic structure. This work is part of our ongoing research into interspecies thinking and speculative storytelling practices. Through this exploration, we develop new forms of collaboration and connection between different organisms, embracing their distinct perspectives by employing contemporary technological tools."
+  },
+  {
+    "objectID": "exhibitions.html#the-fabric-of-morenica",
+    "href": "exhibitions.html#the-fabric-of-morenica",
+    "title": "Works",
+    "section": "The Fabric of Morenica",
+    "text": "The Fabric of Morenica\n\nFor the closing party of Rivalta Viva Aps, Rivalta di Torino, Italy\n\n\n17 May - 19 May 2025\n\n\nThe Fabric of Morenica is a sound work that tells the story of the material ecology of the morainic amphitheater of Rivoli-Avigliana. The piece is the result of a small, portable quantum phononic device designed to enhance the spatial and temporal perception of the person using it. This device, no longer based on outdated silicon, has an architecture dynamically shaped by the same matter as the real phenomena it explores. It is a computer capable of thinking-with-the-world, not simply simulating it—a machine that does not merely calculate, but vibrates, reacts, and resonates like what it observes. It allows us to explore reality with a gaze more attuned to its complexity. The piece is born from a technology that goes beyond representing the world—it enables us to enter it, to access its hidden fabric: to move through it and be transformed with it. &lt;a href=\"https://enricoturletti.bandcamp.com/track/the-fabric-of-morenica\"&gt;The Fabric of Morenica by Enrico Turletti&lt;/a&gt;  In The Fabric of Morenica, I experimented with gate-based quantum computation and quantum concepts such as the phonon, Bose-Einstein condensate, superposition, and entanglement as both analytical methods and speculative tools for artistic creation. As analytical methods, I used quantum computing for: a) the spectral analysis of sound recordings, b) the simulation of a system composed of phonons, and c) the simulation of a Bose-Einstein condensate subjected to linear temperature variations. Starting from a collection of my own sound recordings of the morainic amphitheater, I used spectral analysis to extract a set of frequencies describing the acoustic spectrum of the territory. These frequencies then served as initial parameters for simulating the behavior of phonons. I used the results of the phononic system to guide the selection and manipulation of audio samples through granular synthesis. The data from the Bose-Einstein condensate simulation, on the other hand, informed the musical composition process."
+  },
+  {
+    "objectID": "exhibitions.html#suṃschivāra",
+    "href": "exhibitions.html#suṃschivāra",
+    "title": "Works",
+    "section": "Suṃschivāra",
+    "text": "Suṃschivāra\n\nMicoCosmo Festival, Capo di Ponte, Brescia, Italy\n\n\n26 September - 28 September 2025\n\n\nThe project explores the boundary between life and death through an audiovisual and interactive installation that tells the story of the metamorphosis of a dead sumac inhabited by the fungus Schizophyllum commune. Visitors take part in a two-phase ritual: first, the initiation, with a drink made from the fruits and fungi of the sumac; then, the immersion, through headphones and wearable devices that allow them to enter the body of the plant. Sounds and vibrations translate the data collected from the trunk, the fungi, and the surrounding environment, making the process of degeneration and regeneration — the transformation of matter into new life — perceptible."
+  },
+  {
+    "objectID": "exhibitions.html#sumschivara",
+    "href": "exhibitions.html#sumschivara",
+    "title": "Works",
+    "section": "Sumschivara",
+    "text": "Sumschivara\n\nMicoCosmo Festival, Capo di Ponte, Brescia, Italy\n\n\n26 September - 28 September 2025\n\n\nSumschivara explores the boundary between life and death through an audiovisual and interactive installation that tells the story of the metamorphosis of a dead sumac inhabited by the fungus Schizophyllum commune. Visitors take part in a two-phase ritual: first, the initiation, with a drink made from the fruits and fungi of the sumac; then, the immersion, through headphones and wearable devices that allow them to enter the body of the plant. Sounds and vibrations translate the data collected from the trunk, the fungi, and the surrounding environment, making the process of degeneration and regeneration — the transformation of matter into new life — perceptible."
+  },
+  {
+    "objectID": "music.html#study-for-a-sound-garden-in-val-susa-exilles-1",
+    "href": "music.html#study-for-a-sound-garden-in-val-susa-exilles-1",
+    "title": "Music",
+    "section": "Study for a Sound Garden in Val Susa (Exilles)",
+    "text": "Study for a Sound Garden in Val Susa (Exilles)\nSoundscape from the art installation Study for a Sound Garden in Val Susa exhibited at Forte di Exilles during the Summer 2024. Piece made with Lorenzo Peluffo.\n\n\n\nEnrico Turletti · Studio per un giardino sonoro in Val di Susa"
+  },
+  {
+    "objectID": "music.html#dancing-with-chloroplasts-during-a-genetic-mutation",
+    "href": "music.html#dancing-with-chloroplasts-during-a-genetic-mutation",
+    "title": "Music",
+    "section": "Dancing with Chloroplasts (during a genetic mutation)",
+    "text": "Dancing with Chloroplasts (during a genetic mutation)\nThe music comes from my art installation created with Mariapaola Infuso, titled Immortal Nature. It was presented from June 19th to 26th, 2025, at Peekaboo Gallery in Turin, as part of the (In)oculum exhibition curated by the Consciousness Collective. The five tracks in the album narrate a moment of transformation into an Alocasia plant, triggered by genetic editing carried out by a computer. The pieces were composed using a combination of two algorithms: one that simulates the CRISPR genetic editing technique, and another that replicates the photosynthetic cycles of various chloroplasts.\n\n&lt;a href=\"https://enricoturletti.bandcamp.com/album/dancing-with-chloroplasts-during-a-genetic-mutation\"&gt;Dancing with Chloroplasts (during a genetic mutation) by Enrico Turletti&lt;/a&gt;"
+  },
+  {
+    "objectID": "music.html#summertime-with-four-schizophyllum-commune",
+    "href": "music.html#summertime-with-four-schizophyllum-commune",
+    "title": "Music",
+    "section": "Summertime with Four Schizophyllum commune",
+    "text": "Summertime with Four Schizophyllum commune\nThis piece is a sonification of the electrical spiking activity I recorded from four Schizophyllum commune mushrooms over the course of a full day, on August 12 (from midnight to 11 p.m.). According to researchers such as Andrew Adamatzky, fungi use spiking activity as a means of communication and information processing within their mycelial networks. The interplay of different spikes forms the equivalent of words in their vocabulary. For this work, I identified the spikes within the recorded signals and translated them into sound. Each spike’s amplitude, duration, and waveform were used to drive a simple synthesizer built from pink and brown noise, a band-pass filter, and envelope controls. The timeline of the piece has been condensed into just a few minutes, compared to the length of the original recording.\n\n&lt;a href=\"https://enricoturletti.bandcamp.com/track/summertime-with-four-schizophyllum-commune\"&gt;Summertime with Four Schizophyllum commune by Enrico Turletti&lt;/a&gt;"
+  },
+  {
+    "objectID": "music.html#the-fabric-of-morenica",
+    "href": "music.html#the-fabric-of-morenica",
+    "title": "Music",
+    "section": "The Fabric of Morenica",
+    "text": "The Fabric of Morenica\nIn The Fabric of Morenica, I experimented with gate-based quantum computation and quantum concepts such as the phonon, Bose-Einstein condensate, superposition, and entanglement as both analytical methods and speculative tools for artistic creation. As analytical methods, I used quantum computing for: a) the spectral analysis of sound recordings, b) the simulation of a system composed of phonons, and c) the simulation of a Bose-Einstein condensate subjected to linear temperature variations. Starting from a collection of my own sound recordings of the morainic amphitheater, I used spectral analysis to extract a set of frequencies describing the acoustic spectrum of the territory. These frequencies then served as initial parameters for simulating the behavior of phonons. I used the results of the phononic system to guide the selection and manipulation of audio samples through granular synthesis. The data from the Bose-Einstein condensate simulation, on the other hand, informed the musical composition process.\n\n&lt;a href=\"https://enricoturletti.bandcamp.com/track/the-fabric-of-morenica\"&gt;The Fabric of Morenica by Enrico Turletti&lt;/a&gt;"
   }
 ]
