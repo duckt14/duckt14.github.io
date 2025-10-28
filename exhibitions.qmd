@@ -15,6 +15,28 @@ toc-title: "List of works"
   <hr>
   </div>
 </div>
+## Sumschivara
+###### MicoCosmo Festival, Capo di Ponte, Brescia, Italy
+###### 26 September - 28 September 2025
+<br>
+<p>Sumschivara explores the boundary between life and death through an audiovisual and interactive installation that tells the story of the metamorphosis of a dead sumac inhabited by the fungus Schizophyllum commune.<br>
+Visitors take part in a two-phase ritual: first, the initiation, with a drink made from the fruits and fungi of the sumac; then, the immersion, through headphones and wearable devices that allow them to enter the body of the plant.<br>
+Sounds and vibrations translate the data collected from the trunk, the fungi, and the surrounding environment, making the process of degeneration and regeneration — the transformation of matter into new life — perceptible.</p>
+<br><br>
+<div>
+  <img src="images/sumschivara/sumschivara-1.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/sumschivara/sumschivara-2.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/sumschivara/sumschivara-3.webp" class="grid-gallery-image-pic"/>
+</div>
+<div>
+  <img src="images/sumschivara/sumschivara-4.webp" class="grid-gallery-image-pic"/>
+</div>
+<br><br><br>
+
 ## The Fabric of Morenica
 ###### For the closing party of Rivalta Viva Aps, Rivalta di Torino, Italy
 ###### 17 May - 19 May 2025

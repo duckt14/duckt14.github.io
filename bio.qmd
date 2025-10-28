@@ -15,9 +15,10 @@ toc-title: "Toc"
   <hr>
   </div>
 </div>
-Hi, I'm Enrico!<br>
-My research is focused on the creation of postmedia practices that explore the human relations with the other beings and the constitution of the human consciousness and the human knowledge through the technologies.<br>
-I have a transdisciplinary approach that moves across posthuman philosophy, science, computer, visual and sound. 
+Enrico Turletti graduated in New Technologies of Art from the Albertina Academy of Fine Arts in Turin.
+His work explores the relationship between human beings and the world, and the formation of human consciousness through technology.<br>
+With a transdisciplinary approach, he moves between art, computer science, posthuman philosophy, visual culture, and sound. Through speculative fictions, he creates spaces where the human and the more-than-human intertwine in unexpected ways.<br>
+His works have been presented at various international festivals and venues, including the Italian Cultural Institute in Madrid, Milano Music Week, and Cape Town Art Week. One of his artist’s books is part of the Interspecies Library archive in New York.
 
 <h3>Exhibitions</h3>
 <hr>

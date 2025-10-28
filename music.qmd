@@ -15,6 +15,28 @@ toc-title: "List of pieces"
   <hr>
   </div>
 </div>
+## Summertime with Four Schizophyllum commune
+
+This piece is a sonification of the electrical spiking activity I recorded from four Schizophyllum commune mushrooms over the course of a full day, on August 12 (from midnight to 11 p.m.). According to researchers such as Andrew Adamatzky, fungi use spiking activity as a means of communication and information processing within their mycelial networks. The interplay of different spikes forms the equivalent of words in their vocabulary.<br>
+For this work, I identified the spikes within the recorded signals and translated them into sound. Each spike’s amplitude, duration, and waveform were used to drive a simple synthesizer built from pink and brown noise, a band-pass filter, and envelope controls. The timeline of the piece has been condensed into just a few minutes, compared to the length of the original recording.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=438052240/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://enricoturletti.bandcamp.com/track/summertime-with-four-schizophyllum-commune">Summertime with Four Schizophyllum commune by Enrico Turletti</a></iframe>
+
+## Dancing with Chloroplasts (during a genetic mutation)
+
+The music comes from my art installation created with Mariapaola Infuso, titled *Immortal Nature*. It was presented from June 19th to 26th, 2025, at Peekaboo Gallery in Turin, as part of the (In)oculum exhibition curated by the Consciousness Collective.<br>
+The five tracks in the album narrate a moment of transformation into an Alocasia plant, triggered by genetic editing carried out by a computer. The pieces were composed using a combination of two algorithms: one that simulates the CRISPR genetic editing technique, and another that replicates the photosynthetic cycles of various chloroplasts.
+
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=4108045535/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://enricoturletti.bandcamp.com/album/dancing-with-chloroplasts-during-a-genetic-mutation">Dancing with Chloroplasts (during a genetic mutation) by Enrico Turletti</a></iframe>
+
+## The Fabric of Morenica
+
+In The Fabric of Morenica, I experimented with gate-based quantum computation and quantum concepts such as the phonon, Bose-Einstein condensate, superposition, and entanglement as both analytical methods and speculative tools for artistic creation.<br>
+As analytical methods, I used quantum computing for: a) the spectral analysis of sound recordings, b) the simulation of a system composed of phonons, and c) the simulation of a Bose-Einstein condensate subjected to linear temperature variations.<br>
+Starting from a collection of my own sound recordings of the morainic amphitheater, I used spectral analysis to extract a set of frequencies describing the acoustic spectrum of the territory. These frequencies then served as initial parameters for simulating the behavior of phonons. I used the results of the phononic system to guide the selection and manipulation of audio samples through granular synthesis. The data from the Bose-Einstein condensate simulation, on the other hand, informed the musical composition process.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1312529460/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://enricoturletti.bandcamp.com/track/the-fabric-of-morenica">The Fabric of Morenica by Enrico Turletti</a></iframe>
+
 ## Study for a Sound Garden in Val Susa (Exilles)
 
 Soundscape from the art installation *Study for a Sound Garden in Val Susa* exhibited at Forte di Exilles during the Summer 2024. Piece made with Lorenzo Peluffo.
@@ -28,18 +50,18 @@ Project made with Mariapaola Infuso and Vanessa V(ozzo).
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1904805815&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/sound-from-natura-immortale" title="Sounds from Natura Immortale" target="_blank" style="color: #cccccc; text-decoration: none;">Sounds from Natura Immortale</a></div>
 
-## Symbiotic Concert (L'Orto che Cura)
+<!-- ## Symbiotic Concert (L'Orto che Cura) -->
 
-Record made during the Symbiotic Concert exhibited at L'Orto che Cura.
+<!-- Record made during the Symbiotic Concert exhibited at L'Orto che Cura. -->
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1804250223&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/symbiotic-concert-lorto-che-cura-collegno" title="Symbiotic Concert - L&#x27;orto che cura, Collegno" target="_blank" style="color: #cccccc; text-decoration: none;">Symbiotic Concert - L&#x27;orto che cura, Collegno</a></div>
+<!-- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1804250223&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/symbiotic-concert-lorto-che-cura-collegno" title="Symbiotic Concert - L&#x27;orto che cura, Collegno" target="_blank" style="color: #cccccc; text-decoration: none;">Symbiotic Concert - L&#x27;orto che cura, Collegno</a></div> -->
 
-## Ciapinabò (Home garden, improvisation)
+<!-- ## Ciapinabò (Home garden, improvisation) -->
 
-The result of a jam session in my vegetable garden for testing the system which allows human, plant and computer to make and play music together.
-This track is made by my interaction with Jerusalem artichoke (*Helianthus tuberosus*) and cellular automata algorithm.
+<!-- The result of a jam session in my vegetable garden for testing the system which allows human, plant and computer to make and play music together. -->
+<!-- This track is made by my interaction with Jerusalem artichoke (*Helianthus tuberosus*) and cellular automata algorithm. -->
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1641128997&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/ciapinabo-home-garden-improvisation" title="Ciapinabò (Home garden, improvisation)" target="_blank" style="color: #cccccc; text-decoration: none;">Ciapinabò (Home garden, improvisation)</a></div>
+<!-- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1641128997&color=%23002b36&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enrico-turletti-986118922" title="Enrico Turletti" target="_blank" style="color: #cccccc; text-decoration: none;">Enrico Turletti</a> · <a href="https://soundcloud.com/enrico-turletti-986118922/ciapinabo-home-garden-improvisation" title="Ciapinabò (Home garden, improvisation)" target="_blank" style="color: #cccccc; text-decoration: none;">Ciapinabò (Home garden, improvisation)</a></div> -->
 
 ## Bidens frondosa (Turin, Murazzi)
 
