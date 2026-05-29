@@ -2,41 +2,225 @@
 title: "Index"
 lang: en
 link-external-newwindow: true
-toc: true
-toc-title: "Toc"
+toc: false
 ---
-<div class="navbar">
-  <div class="index-logo"><a href="index.html">Enrico Turletti</a></div>
-  <div class="other-links">
-  <a href="bio.html">Bio</a>
-  <a href="contacts.html">Contacts</a>
-  <a href="exhibitions.html">Works</a>
-  <a href="music.html">Music</a>
-  <hr>
+
+```{=html}
+<div class="page-wrapper">
+  
+  <div class="navbar">
+    <div class="index-logo"><a href="index.html"><strong>Enrico Turletti</strong></a></div>
+    <div class="other-links">
+      <a href="bio.html">Bio</a>
+      <a href="contacts.html">Contacts</a>
+      <a href="exhibitions.html">Works</a>
+      <a href="music.html">Music</a>
+    </div>
   </div>
+
+  <!-- L'area di gioco si posizionerà automaticamente a destra o in basso, riempiendo lo spazio libero -->
+  <div class="game-container" id="gameBox">
+    <canvas id="lifeCanvas"></canvas>
+  </div>
+  
 </div>
-<h2>KA//PA//RO</h2>
-##### With Lorenzo Peluffo
-###### Visions in Motion, <a class="link-to-ext" href='https://recontemporary.com/' class=>Recontemporary</a>, Cape Town, South Africa
-###### 18 February - 23 February 2025
-<br>
-<p>KA//PA//RO is an audiovisual installation that narrates the encounter between a Juniperus phoenicea grown in Piedmont and the plants inhabiting the garden of the villa that hosted the exhibition.<br>
-To envision how this encounter might have unfolded, we developed a program that simulated the event by creating a system composed of the corresponding virtual plants. As the program ran, we recorded the evolution of the system by monitoring the exchange of volatile organic compounds (VOCs)—a class of chemical compounds used by plants for communication.<br>
-The resulting data is presented in both musical and visual forms:<br>
-❧ Musically, through a soundscape incorporating electronic sounds, sonifications, and manipulated field recordings.<br>
-❧ Visually, through graphic interfaces displaying the software simulation: one animated graph, where the system’s evolution is visible, and three other screens where the system is transformed into a sonic structure.<br>
-This work is part of our ongoing research into interspecies thinking and speculative storytelling practices. Through this exploration, we develop new forms of collaboration and connection between different organisms, embracing their distinct perspectives by employing contemporary technological tools.</p>
-<br><br>
-<div>
-  <img src="images/kaparo/kaparo-1.webp" class="grid-gallery-image-pic"/>
-</div>
-<div>
-  <img src="images/kaparo/kaparo-2.webp" class="grid-gallery-image-pic"/>
-</div>
-<div>
-  <img src="images/kaparo/kaparo-3.webp" class="grid-gallery-image-pic"/>
-</div>
-<div>
-  <img src="images/kaparo/kaparo-4.webp" class="grid-gallery-image-pic"/>
-</div>
-<br><br><br>
+
+<style>
+  /* RIMOZIONE FORZATA DEI MARGINI STANDARD DI QUARTO */
+  main.content, #quarto-document-content, #quarto-margin-sidebar {
+      max-width: none !important; 
+      padding: 0 !important;
+      margin: 0 !important;
+      display: block !important;
+  }
+  
+  .quarto-title, .toc, header {
+      display: none !important;
+  }
+
+  body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden; /* Evita fastidiosi scroll bar laterali */
+  }
+
+  /* WRAPPER PRINCIPALE: Comportamento Desktop (Schermi grandi) */
+  .page-wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: row; /* Affianca la Navbar e il Gioco orizzontalmente */
+  }
+
+  .navbar {
+      background: white;
+      z-index: 10;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column; /* Link incollonnati verticalmente */
+      min-width: 250px;       /* Spazio protetto per il testo (regolalo se serve) */
+      box-sizing: border-box;
+  }
+
+  .index-logo {
+      font-size: 1.5em;
+      margin-bottom: 2rem;
+  }
+  
+  .index-logo a {
+      text-decoration: none;
+      color: black;
+  }
+
+  .other-links {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+  }
+  
+  .other-links a {
+      text-decoration: none;
+      color: #333;
+  }
+
+  /* AREA DEL GIOCO */
+  .game-container {
+      flex: 1; /* Prende tutto lo spazio rimanente a destra (desktop) o in basso (mobile) */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5vmin; /* Margine di sicurezza proporzionale per non toccare i bordi */
+      box-sizing: border-box;
+  }
+
+  #lifeCanvas {
+      background-color: transparent; 
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain; 
+  }
+
+  /* COMPORTAMENTO MOBILE (Schermi stretti, es: cellulari) */
+  @media (max-width: 768px) {
+      .page-wrapper {
+          flex-direction: column; /* Navbar passa in alto, Gioco va sotto */
+      }
+      .navbar {
+          min-width: auto;
+          padding: 1rem;
+          /* Mantiene il logo e i link in un blocco compatto in alto */
+      }
+      .index-logo {
+          margin-bottom: 1rem;
+      }
+      .other-links {
+          flex-direction: row; /* Su mobile i link si affiancano orizzontalmente */
+          flex-wrap: wrap;     /* Vanno a capo se non c'è spazio */
+      }
+  }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const canvas = document.getElementById("lifeCanvas");
+    const ctx = canvas.getContext("2d");
+    const container = document.getElementById("gameBox");
+    
+    // Configurazione 
+    const resolution = 14; 
+    let cols, rows;
+    let grid;
+    let animationId;
+    
+    // Configura le dimensioni del gioco basandosi SOLO sullo spazio del game-container
+    function setupCanvas() {
+        // Legge lo spazio realmente disponibile nel container di destra (esclude la navbar)
+        const availableWidth = container.clientWidth - (container.clientWidth * 0.1); 
+        const availableHeight = container.clientHeight - (container.clientHeight * 0.1);
+        
+        cols = Math.floor(availableWidth / resolution);
+        rows = Math.floor(availableHeight / resolution);
+        
+        canvas.width = cols * resolution;
+        canvas.height = rows * resolution;
+        
+        grid = buildGrid();
+    }
+    
+    function buildGrid() {
+        return new Array(cols).fill(null)
+            .map(() => new Array(rows).fill(null)
+            .map(() => Math.floor(Math.random() * 2)));
+    }
+    
+    function nextGen(grid) {
+        const nextGrid = grid.map(arr => [...arr]);
+        for (let col = 0; col < cols; col++) {
+            for (let row = 0; row < rows; row++) {
+                const cell = grid[col][row];
+                let numNeighbours = 0;
+                
+                for (let i = -1; i < 2; i++) {
+                    for (let j = -1; j < 2; j++) {
+                        if (i === 0 && j === 0) continue;
+                        const x = col + i;
+                        const y = row + j;
+                        
+                        if (x >= 0 && x < cols && y >= 0 && y < rows) {
+                            numNeighbours += grid[x][y];
+                        }
+                    }
+                }
+                
+                if (cell === 1 && numNeighbours < 2) nextGrid[col][row] = 0;
+                else if (cell === 1 && numNeighbours > 3) nextGrid[col][row] = 0;
+                else if (cell === 0 && numNeighbours === 3) nextGrid[col][row] = 1;
+            }
+        }
+        return nextGrid;
+    }
+    
+    function render(grid) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.fillStyle = "black";
+        
+        for (let col = 0; col < cols; col++) {
+            for (let row = 0; row < rows; row++) {
+                if (grid[col][row] === 1) {
+                    const x = col * resolution;
+                    const y = row * resolution;
+                    // Utilizzo di fillRect senza margini sottratti per celle piene e unite
+                    ctx.fillRect(x, y, resolution, resolution);
+                }
+            }
+        }
+    }
+    
+    let lastTime = 0;
+    const fps = 12; 
+    const interval = 1000 / fps;
+    
+    function gameLoop(timestamp) {
+        if (timestamp - lastTime > interval) {
+            grid = nextGen(grid);
+            render(grid);
+            lastTime = timestamp;
+        }
+        animationId = requestAnimationFrame(gameLoop);
+    }
+    
+    // Inizializzazione
+    setupCanvas();
+    render(grid);
+    animationId = requestAnimationFrame(gameLoop);
+    
+    // Ricalcola il layout se l'utente restringe o allarga la finestra
+    window.addEventListener("resize", () => {
+        setupCanvas();
+    });
+});
+</script>
+```
