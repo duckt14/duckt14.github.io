@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Enrico Turletti"
+  title: "Peluffo & Turletti"
   favicon: et_favicon.png
   open-graph:
     locale: "en"
@@ -14,7 +14,8 @@ website:
     style: "floating"
     alignment: center
     search: false
-    contents: auto
+    contents:
+        - exhibitions.qmd
 format:
   html:
     theme: 
@@ -22,7 +23,13 @@ format:
       - custom.scss
     backgroundcolor: "#ffffff"
     mainfont: Sanfrisco
-    toc: false
+    toc: true
+    toc-location: right
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 220px
+      gutter-width: 1.5rem
 filters: 
   - externalink.lua
 
