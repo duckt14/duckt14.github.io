@@ -2,99 +2,109 @@
 @font-face {
   font-family: "Sanfrisco";
   src: url("font/Sanfrisco.ttf");
-  //src: url("Tahoma.woff") format("woff"),
-  //url("Sanfrisco.ttf") format("truetype"),
 }
 
 @font-face {
   font-family: "BodoniStd";
   src: url("font/BodoniStd.otf");
-  //src: url("Tahoma.woff") format("woff"),
-  //url("Tahoma.ttf") format("truetype"),
 }
 
 @font-face {
   font-family: "BodoniStd-Book";
   src: url("font/BodoniStd-Book.otf");
-  //src: url("Tahoma.woff") format("woff"),
-  //url("Tahoma.ttf") format("truetype"),
 }
 
 @font-face {
   font-family: "BodoniStd-Italic";
   src: url("font/BodoniStd-BookItalic.otf");
-  //src: url("Tahoma.woff") format("woff"),
-  //url("Tahoma.ttf") format("truetype"),
 }
 
 @font-face {
   font-family: "Los Altos";
   src: url("font/LosAltos.ttf");
-  //src: url("Tahoma.woff") format("woff"),
-  //url("Tahoma.ttf") format("truetype"),
 }
 
-p, ol, ul, dl, li {
-  font-family: "BodoniStd-Book";
+/* =========================
+   TYPOGRAPHY BASE
+   ========================= */
+
+p,
+ol,
+ul,
+dl,
+li {
+  font-family: "BodoniStd-Book", serif;
   font-size: 1.5em;
 }
 
+html h1,
 html h2 {
-  font-family: "BodoniStd";
+  font-family: "BodoniStd", serif;
   font-size: 2em;
 }
 
 html h3 {
-  font-family: "BodoniStd";
+  font-family: "BodoniStd", serif;
   font-size: 1.75em;
 }
 
 html h5 {
-  font-family: "BodoniStd";
+  font-family: "BodoniStd", serif;
   font-size: 1.65em;
 }
 
 html h6 {
-  font-family: "BodoniStd-Italic";
+  font-family: "BodoniStd-Italic", serif;
   font-size: 1.5em;
 }
 
-.link-to-ext a:link, a:visited, a:hover, a:active {
+.link-to-ext a:link,
+.link-to-ext a:visited,
+.link-to-ext a:hover,
+.link-to-ext a:active {
   color: black;
 }
+
+/* =========================
+   LISTS
+   ========================= */
 
 .aos-ul {
   font-size: 1em;
   list-style: none;
-  padding-left: 5px; /* Spazio per il simbolo */
+  padding-left: 5px;
 }
 
 .aos-ul li::before {
-  content: '✦';
-  font-size: 0.5em; /* Cambia la grandezza del simbolo */
-  margin-right: 10px; /* Spazio tra il simbolo e il testo */
-  color: #000; /* Colore del simbolo */
+  content: "✦";
+  font-size: 0.5em;
+  margin-right: 10px;
+  color: #000;
 }
 
 .ul-related-articles {
   font-size: 1em;
   list-style: none;
-  padding-left: 5px; /* Spazio per il simbolo */
+  padding-left: 5px;
 }
 
 .ul-related-articles li::before {
-  content: '✿';
-  font-size: 0.5em; /* Cambia la grandezza del simbolo */
-  margin-right: 10px; /* Spazio tra il simbolo e il testo */
-  color: #000; /* Colore del simbolo */
+  content: "✿";
+  font-size: 0.5em;
+  margin-right: 10px;
+  color: #000;
 }
 
-/*-- scss:rules --*/
+/* =========================
+   GENERIC ELEMENTS
+   ========================= */
+
 .quarto-title > h1.title {
   display: none !important;
   visibility: hidden;
   opacity: 0 !important;
 }
+
 .grid-gallery {
   width: 100%;
   height: auto;
@@ -105,6 +115,7 @@ html h6 {
   margin-top: 1.5vh;
   margin-bottom: 1.5vh;
 }
+
 .grid-gallery-image {
   align-self: auto;
   width: 100%;
@@ -112,12 +123,14 @@ html h6 {
   margin-right: 5px;
   margin-bottom: 5px;
 }
+
 .grid-gallery-image-pic {
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 8px;
 }
+
 .img-title-works {
   width: 65%;
   height: 65%;
@@ -125,83 +138,268 @@ html h6 {
   margin-top: 2vh;
   margin-bottom: 6vh;
 }
-.sidebar.sidebar-navigation {
-  //font-family: "Los Altos";
-  background-color: #ffffff !important;
-  justify-content: center;
-}
-.sidebar.sidebar-navigation li {
-  font-family: "Los Altos";
-  background-color: #ffffff !important;
-  justify-content: center;
-}
+
 .footer {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
 
-// menù di navigazione di sinistra
-nav[role="doc-toc"] li {
-  font-size: 1em;
-  font-family: "Los Altos";
+/* =========================
+   DESKTOP LAYOUT REFINEMENT
+   usa la griglia di _quarto.yml,
+   non ridefinisce page-columns
+   ========================= */
+
+@media (min-width: 992px) {
+  .navbar,
+  .mobile-index,
+  #quarto-header,
+  .quarto-secondary-nav {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  quarto-sidebar {
+    padding-right: 0 !important;
+  }
+
+  .sidebar.sidebar-navigation {
+    background-color: #ffffff !important;
+    width: 250px !important;
+    min-width: 250px !important;
+    max-width: 250px !important;
+    padding-top: 6.2rem !important;
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+    box-sizing: border-box !important;
+    justify-content: flex-start !important;
+  }
+
+  .sidebar .sidebar-title,
+  .sidebar .sidebar-title a {
+    font-family: "Sanfrisco", sans-serif !important;
+    font-size: 2.2rem !important;
+    line-height: 0.95 !important;
+    color: black !important;
+    text-decoration: none !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  .sidebar .sidebar-menu-container {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  .sidebar .sidebar-item,
+  .sidebar .sidebar-section .sidebar-item {
+    margin-bottom: 0.35rem !important;
+  }
+
+  .sidebar .sidebar-item-container {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  .sidebar .sidebar-item a,
+  .sidebar .sidebar-section .sidebar-item a,
+  .sidebar.sidebar-navigation li {
+    font-family: "Los Altos", sans-serif !important;
+    font-size: 1rem !important;
+    line-height: 1.25 !important;
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  .sidebar .sidebar-item a:hover,
+  .sidebar .sidebar-item a[aria-current="page"] {
+    color: black !important;
+    opacity: 0.65;
+  }
+
+  main.content {
+    padding-top: 5.6rem !important;
+  }
+
+  #quarto-content,
+  #quarto-document-content {
+    box-sizing: border-box;
+  }
 }
 
-@media (max-width: 991.98px) {
-    #quarto-header {
-      visibility: hidden;
-      display: none;
-    }
-    header.headroom--unpinned {
-      visibility: hidden;
-      display: none;
-    }
-    .quarto-secondary-nav {
-      visibility: hidden;
-      display: none;
-    }
-    .navbar {
-      display: block;
-      visibility: visible;
-      position: -webkit-sticky;
-      position: sticky;
-      top: 0;
-      margin: auto !important;
-      background-color: #ffffff !important;
-      z-index: 9999;
-    }
-    .navbar a:link {
-      color: black !important;
-      text-decoration: none;
-    }
-    .navbar a:visited {
-      color: black !important;
-      text-decoration: none;
-    }
-    .navbar a:hover {
-      color: black !important;
-      text-decoration: none;
-    }
-    .navbar a:active {
-      color: black !important;
-      text-decoration: none;
-    }
-    .other-links {
-      font-family: "Los Altos";
-      font-size: 1em;
-    }
-    .index-logo {
-      font-size: 1.2em;
-      color: black !important;
-    }
-}
-@media (min-width: 991.98px) {
-  .mobile-index {
-    display: none;
-    visibility: hidden;
+/* =========================
+   DESKTOP TOC / MARGIN
+   visibile ma armonizzato
+   ========================= */
+
+@media (min-width: 992px) {
+  #quarto-margin-sidebar,
+  quarto-margin-sidebar {
+    padding-top: 6.2rem !important;
+    box-sizing: border-box !important;
   }
+
+  nav[role="doc-toc"] {
+    padding-left: 0.25rem !important;
+    padding-right: 0 !important;
+  }
+
+  nav[role="doc-toc"] .toc-title,
+  nav[role="doc-toc"] h2 {
+    font-family: "BodoniStd-Italic", serif !important;
+    font-size: 1.15rem !important;
+    font-weight: normal !important;
+    letter-spacing: 0 !important;
+    text-transform: none !important;
+    margin-bottom: 0.75rem !important;
+  }
+
+  nav[role="doc-toc"] ul,
+  nav[role="doc-toc"] li {
+    font-family: "Los Altos", sans-serif !important;
+    font-size: 0.95rem !important;
+    line-height: 1.2 !important;
+  }
+
+  nav[role="doc-toc"] a {
+    color: black !important;
+    text-decoration: none !important;
+    opacity: 0.8;
+  }
+
+  nav[role="doc-toc"] a:hover,
+  nav[role="doc-toc"] a.active {
+    opacity: 1;
+  }
+}
+
+/* =========================
+   HOMEPAGE DESKTOP
+   mantiene la stessa geometria
+   delle altre pagine
+   richiede .page-wrapper nella home
+   ========================= */
+
+@media (min-width: 992px) {
+  body:has(.page-wrapper) main.content {
+    padding-top: 5.6rem !important;
+    min-height: 100vh;
+  }
+
+  body:has(.page-wrapper) #quarto-margin-sidebar,
+  body:has(.page-wrapper) quarto-margin-sidebar {
+    visibility: hidden !important;
+  }
+
+  body:has(.page-wrapper) #quarto-margin-sidebar > *,
+  body:has(.page-wrapper) quarto-margin-sidebar > * {
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+
+  body:has(.page-wrapper) .page-wrapper {
+    min-height: calc(100vh - 5.6rem);
+  }
+}
+
+/* =========================
+   MOBILE
+   navbar custom visibile,
+   sidebar e toc nativi nascosti
+   ========================= */
+
+@media (max-width: 991.98px) {
+  quarto-sidebar,
+  #quarto-header,
+  header.headroom,
+  .quarto-secondary-nav,
+  #quarto-margin-sidebar,
+  quarto-margin-sidebar {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  main.content {
+    padding-top: 0 !important;
+  }
+
   .navbar {
-    display: none;
-    visibility: hidden;
+    display: block !important;
+    visibility: visible !important;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    width: 100%;
+    background-color: #ffffff !important;
+    padding: 1.25rem 1rem 0.75rem 1rem;
+    margin: 0 !important;
+    box-sizing: border-box;
+  }
+
+  .index-logo {
+    font-family: "Sanfrisco", sans-serif !important;
+    font-size: 2.2rem !important;
+    line-height: 0.95 !important;
+    color: black !important;
+    margin-bottom: 0.75rem;
+  }
+
+  .index-logo a,
+  .index-logo a:link,
+  .index-logo a:visited,
+  .index-logo a:hover,
+  .index-logo a:active {
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  .other-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.85rem;
+    align-items: center;
+    font-family: "BodoniStd-Italic", serif !important;
+    font-size: 1.15rem !important;
+  }
+
+  .other-links a,
+  .other-links a:link,
+  .other-links a:visited,
+  .other-links a:hover,
+  .other-links a:active {
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  .other-links hr {
+    width: 100%;
+    border: 0;
+    border-top: 1px solid #d9d9d9;
+    margin: 0.5rem 0 0 0;
+  }
+}
+
+/* =========================
+   SAFETY / MEDIA
+   ========================= */
+
+img,
+video,
+canvas,
+svg {
+  max-width: 100%;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+@media (min-width: 992px) {
+  .sidebar .sidebar-menu-container {
+    display: none !important;
   }
 }
